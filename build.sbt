@@ -19,7 +19,7 @@ spShortDescription := "Example codes of kaggle jobs"
 spDescription := """This is a collection of kaggle examples.
                    |These samples requires a corresponding data that can be
                    |downloaded from kaggle.com.
-                   |These are absolutely tutorial pacakge, not optimized
+                   |These are absolutely tutorial package, not optimized
                    |for production use.""".stripMargin
 
 licenses += "Apache-2.0" -> url("http://opensource.org/licenses/Apache-2.0")
